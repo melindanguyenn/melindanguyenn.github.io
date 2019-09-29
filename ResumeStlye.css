@@ -13,4 +13,8 @@ h1 {
 color: darkolivegreen;
 }
 
-
+h3 {
+   li {
+      display: inline;
+   }
+}
