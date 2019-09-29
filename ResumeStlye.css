@@ -1,7 +1,7 @@
 html {
    background-color: #fdf9f9
    border: 5px solid #48240a;
-   display: flex;
+   padding: 30px;
 }
 
 body {
