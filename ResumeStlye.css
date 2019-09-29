@@ -1,6 +1,7 @@
 html {
    background-color: #fdf9f9
    display: flex;
+   flex-wrap: wrap;
 }
 
 body {
